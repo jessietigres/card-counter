@@ -4,7 +4,7 @@ main {
 }
 
 body {
-    background-image: url("nibiru-the-primal-being.gif");
+    background-image: url("nib.png");
     background-size: auto;
     font-weight: bold;
     text-align: center;
@@ -50,5 +50,5 @@ button {
 
 #nib:hover {
     background-image: url("nibiru-the-primal-being.gif");
-    background-size: auto;
+    background-size: cover;
 }
