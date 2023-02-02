@@ -5,7 +5,7 @@ main {
 
 body {
     background-image: url("nibiru-the-primal-being.gif");
-    background-size: cover;
+    background-size: auto;
     font-weight: bold;
     text-align: center;
     font-family: fantasy;
