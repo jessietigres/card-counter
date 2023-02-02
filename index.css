@@ -5,7 +5,7 @@ main {
 
 body {
     background-image: url("nib.png");
-    background-size: auto;
+    background-size: cover;
     font-weight: bold;
     text-align: center;
     font-family: fantasy;
