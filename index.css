@@ -45,6 +45,9 @@ button {
 }
 
 #nib {
-    background-image: url("nib.png");
-    background-size: auto;
+    background-image: red;
+}
+
+#nib:hover {
+    background-image: url("nibiru-the-primal-being.gif");
 }
