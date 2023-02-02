@@ -44,3 +44,7 @@ button {
     background: orange;
 }
 
+#nib {
+    background: red;
+    background-image: url("nib.png")
+}
