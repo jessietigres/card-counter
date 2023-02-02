@@ -1,5 +1,6 @@
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
+let putEl = document.getElementById("put-el")
 let count = 0
 
 function increment() {
@@ -17,5 +18,6 @@ function save() {
 function nib() {
     count += 5
     countEl.textContent = count
+    putEl.textContent = "PUTOS"
 }
 
