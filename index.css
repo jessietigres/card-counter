@@ -45,6 +45,6 @@ button {
 }
 
 #nib {
-    background: red;
-    background-image: url("nib.png")
+    background-image: url("nib.png");
+    background-size: auto;
 }
